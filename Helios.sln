@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {FE69C947-A14B-48A2-A8BD-21EE36F37E6B}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helios", "Helios\Helios.csproj", "{112DCD54-27E9-467B-BBBF-BF558EF1DE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{112DCD54-27E9-467B-BBBF-BF558EF1DE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112DCD54-27E9-467B-BBBF-BF558EF1DE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112DCD54-27E9-467B-BBBF-BF558EF1DE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112DCD54-27E9-467B-BBBF-BF558EF1DE03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE69C947-A14B-48A2-A8BD-21EE36F37E6B}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 9db7131c368f2a6c4ce0c8db7c11d2286ea140e6
