@@ -1,4 +1,11 @@
 # Helios
+Desktop weather forecast application
+
+- Provide weather forecasts for a period of one week
+- Provide weather statistics
+- Consultation of a geographical map containing the weather forecast
+- Retrieving the day's weather automatically using an API
+
 Application desktop de prévision météo
 
 - Founir des prédictions météo pour une durée d'une semaine
